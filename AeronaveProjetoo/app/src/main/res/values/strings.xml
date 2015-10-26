@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Aeronave</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_passagem_origem">Origem: </string>
+    <string name="label_passagem_destino">Destino: </string>
+    <string name="botao_enviar">Consultar</string>
+
+
+    <string-array name="origem">
+
+        <item>Escolha origem</item>
+        <item>Bahia</item>
+        <item>Fortaleza</item>
+        <item>São Paulo</item>
+    </string-array>
+
+    <string-array name="destino">
+
+        <item>Escolha origem</item>
+        <item>Bahia</item>
+        <item>Fortaleza</item>
+        <item>São Paulo</item>
+    </string-array>
+
+    <string name="title_activity_lista_passagem">Lista de Passagens</string>
+
+    <string name="txt_lista_passagens">Nenhuma passagem encontrada.</string>
+
+</resources>
+
